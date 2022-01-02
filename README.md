@@ -12,4 +12,5 @@ Notice that not all of them are implented in all the lenguages.
 ## Sections:
 
 **_/misc_** -> Miscelania algorithms
-/search -> Searching algorithms
+
+**_/search_** -> Searching algorithms
