@@ -12,12 +12,12 @@ int	main(void)
 {
   int a = 12;
   int b = 1;
-  int baux = b;
+  int aux = b;
   int result = 0;
 
-  while (baux < a)
+  while (aux < a)
   {
-	baux++;
+	aux++;
 	result++;
   }
 

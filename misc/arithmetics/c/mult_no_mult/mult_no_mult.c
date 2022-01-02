@@ -11,13 +11,13 @@ int	main(void)
 {
   int a = 3;
   int b = 5;
-  int baux = b;
+  int aux = b;
   int result = 0;
 
-  while (baux)
+  while (aux)
   {
     result += a;
-    baux--;
+    aux--;
   }
 
   printf("Result of %d * %d = %d\n", a, b, result);
