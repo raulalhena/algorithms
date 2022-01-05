@@ -7,7 +7,9 @@
  */
 
 const subs_no_subs = (a, b) => {
+
 	let aux = b;
+  	let i;
 
   	for(i = 0; aux < a; i++, aux++);
 
